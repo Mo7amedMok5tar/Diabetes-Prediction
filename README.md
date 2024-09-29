@@ -12,14 +12,18 @@ This project is a Diabetes Prediction application designed to assess an individu
   - Age
   - Skin thickness
 - **Prediction:** The application provides a prediction based on the input data.
+- **Data Visualization:** Utilizes **Matplotlib** and **Seaborn** for insightful visualizations of the dataset and analysis results.
+- **Data Analysis and Cleaning:** Conducts data analysis and cleaning to ensure high-quality input data.
 - **Clear Output:** Users can clear the prediction results easily.
-  
+
 ## Technologies Used
 - Python
 - Streamlit
 - Scikit-learn
 - NumPy
 - Pandas
+- Matplotlib
+- Seaborn
 
 ## How to Run the Application
 1. Clone the repository to your local machine:
